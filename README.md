@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Try the project live here - https://news-read.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
